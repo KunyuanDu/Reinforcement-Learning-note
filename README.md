@@ -1,5 +1,7 @@
 # Reinforcement-Learning-note
 # 李宏毅老师的强化学习课程笔记 （2020）
 
-## 视频链接：
-https://www.bilibili.com/video/av94519857?p=86 （P86 - P96）
+## 视频：
+https://www.bilibili.com/video/av24724071?p=1
+
+
